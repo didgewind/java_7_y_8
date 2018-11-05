@@ -1,0 +1,7 @@
++ Medir rendimiento de procesamiento de streams.
+
++ Escribir fibonnacci en un fichero. Refactorizar.
+
++ Reutilizar un stream a la mitad (stream clone?). No hay.
+
++ ¿Paralelismo interno automático? Puede darse.

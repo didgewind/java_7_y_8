@@ -1,0 +1,14 @@
+Proyecto con ejemplos de características nuevas de java 7 y 8
+
+El paquete comportamiento contiene un interfaz y un par de clases de implementación
+de ejemplo como introducción a la utilidad de las expresiones Lambda.
+
+El paquete interfaces era un intento de probar herencia de métodos default, pero 
+sólo hice el interfaz Padre
+
+model contiene clases Empleado y Departamento. Desde Empleado podemos navegar a Departamento,
+además un empleado tiene un salario (double)
+
+util tiene una clase Crono estática que simula un cronómetro utilizando la clase Instant de java 8
+
+ui.Gestor contiene métodos tests comentados
